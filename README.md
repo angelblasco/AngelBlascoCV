@@ -1,2 +1,2 @@
 # CV Angel Blasco
-Curriculum interactivo **en construccion**
+Curriculum interactivo __en construccion__
